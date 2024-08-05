@@ -1,0 +1,14 @@
+D:\FROM E\laptop\Semester 4\Praktikum Pemrograman Visual\Bab 5\WindowsApplication9\WindowsApplication9\bin\Debug\WindowsApplication9.exe.config
+D:\FROM E\laptop\Semester 4\Praktikum Pemrograman Visual\Bab 5\WindowsApplication9\WindowsApplication9\bin\Debug\WindowsApplication9.exe
+D:\FROM E\laptop\Semester 4\Praktikum Pemrograman Visual\Bab 5\WindowsApplication9\WindowsApplication9\bin\Debug\WindowsApplication9.pdb
+D:\FROM E\laptop\Semester 4\Praktikum Pemrograman Visual\Bab 5\WindowsApplication9\WindowsApplication9\bin\Debug\WindowsApplication9.xml
+D:\FROM E\laptop\Semester 4\Praktikum Pemrograman Visual\Bab 5\WindowsApplication9\WindowsApplication9\obj\Debug\WindowsApplication9.Form1.resources
+D:\FROM E\laptop\Semester 4\Praktikum Pemrograman Visual\Bab 5\WindowsApplication9\WindowsApplication9\obj\Debug\WindowsApplication9.Resources.resources
+D:\FROM E\laptop\Semester 4\Praktikum Pemrograman Visual\Bab 5\WindowsApplication9\WindowsApplication9\obj\Debug\WindowsApplication9.vbproj.GenerateResource.Cache
+D:\FROM E\laptop\Semester 4\Praktikum Pemrograman Visual\Bab 5\WindowsApplication9\WindowsApplication9\obj\Debug\WindowsApplication9.exe
+D:\FROM E\laptop\Semester 4\Praktikum Pemrograman Visual\Bab 5\WindowsApplication9\WindowsApplication9\obj\Debug\WindowsApplication9.xml
+D:\FROM E\laptop\Semester 4\Praktikum Pemrograman Visual\Bab 5\WindowsApplication9\WindowsApplication9\obj\Debug\WindowsApplication9.pdb
+D:\FROM E\laptop\Semester 4\Praktikum Pemrograman Visual\Bab 5\WindowsApplication9\WindowsApplication9\obj\Debug\WindowsApplication9.Form3.resources
+D:\FROM E\laptop\Semester 4\Praktikum Pemrograman Visual\Bab 5\WindowsApplication9\WindowsApplication9\obj\Debug\WindowsApplication9.Form4.resources
+D:\FROM E\laptop\Semester 4\Praktikum Pemrograman Visual\Bab 5\WindowsApplication9\WindowsApplication9\obj\Debug\WindowsApplication9.vbprojResolveAssemblyReference.cache
+D:\FROM E\laptop\Semester 4\Praktikum Pemrograman Visual\Bab 5\WindowsApplication9\WindowsApplication9\obj\Debug\WindowsApplication9.Form2.resources

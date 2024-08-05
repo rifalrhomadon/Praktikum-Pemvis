@@ -1,0 +1,12 @@
+D:\FROM E\laptop\Semester 4\Praktikum Pemrograman Visual\Bab 5\WindowsApplication6\WindowsApplication6\bin\Debug\WindowsApplication6.exe.config
+D:\FROM E\laptop\Semester 4\Praktikum Pemrograman Visual\Bab 5\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.Form1.resources
+D:\FROM E\laptop\Semester 4\Praktikum Pemrograman Visual\Bab 5\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.Resources.resources
+D:\FROM E\laptop\Semester 4\Praktikum Pemrograman Visual\Bab 5\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.vbproj.GenerateResource.Cache
+D:\FROM E\laptop\Semester 4\Praktikum Pemrograman Visual\Bab 5\WindowsApplication6\WindowsApplication6\bin\Debug\WindowsApplication6.exe
+D:\FROM E\laptop\Semester 4\Praktikum Pemrograman Visual\Bab 5\WindowsApplication6\WindowsApplication6\bin\Debug\WindowsApplication6.pdb
+D:\FROM E\laptop\Semester 4\Praktikum Pemrograman Visual\Bab 5\WindowsApplication6\WindowsApplication6\bin\Debug\WindowsApplication6.xml
+D:\FROM E\laptop\Semester 4\Praktikum Pemrograman Visual\Bab 5\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.exe
+D:\FROM E\laptop\Semester 4\Praktikum Pemrograman Visual\Bab 5\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.xml
+D:\FROM E\laptop\Semester 4\Praktikum Pemrograman Visual\Bab 5\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.pdb
+D:\FROM E\laptop\Semester 4\Praktikum Pemrograman Visual\Bab 5\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.vbprojResolveAssemblyReference.cache
+D:\FROM E\laptop\Semester 4\Praktikum Pemrograman Visual\Bab 5\WindowsApplication6\WindowsApplication6\obj\Debug\WindowsApplication6.Form2.resources

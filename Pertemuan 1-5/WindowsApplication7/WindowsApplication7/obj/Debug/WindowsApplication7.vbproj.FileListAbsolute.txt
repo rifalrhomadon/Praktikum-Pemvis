@@ -1,0 +1,10 @@
+c:\users\asus\documents\visual studio 2013\Projects\WindowsApplication7\WindowsApplication7\bin\Debug\WindowsApplication7.exe.config
+c:\users\asus\documents\visual studio 2013\Projects\WindowsApplication7\WindowsApplication7\bin\Debug\WindowsApplication7.exe
+c:\users\asus\documents\visual studio 2013\Projects\WindowsApplication7\WindowsApplication7\bin\Debug\WindowsApplication7.pdb
+c:\users\asus\documents\visual studio 2013\Projects\WindowsApplication7\WindowsApplication7\bin\Debug\WindowsApplication7.xml
+c:\users\asus\documents\visual studio 2013\Projects\WindowsApplication7\WindowsApplication7\obj\Debug\WindowsApplication7.Form1.resources
+c:\users\asus\documents\visual studio 2013\Projects\WindowsApplication7\WindowsApplication7\obj\Debug\WindowsApplication7.Resources.resources
+c:\users\asus\documents\visual studio 2013\Projects\WindowsApplication7\WindowsApplication7\obj\Debug\WindowsApplication7.vbproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2013\Projects\WindowsApplication7\WindowsApplication7\obj\Debug\WindowsApplication7.exe
+c:\users\asus\documents\visual studio 2013\Projects\WindowsApplication7\WindowsApplication7\obj\Debug\WindowsApplication7.xml
+c:\users\asus\documents\visual studio 2013\Projects\WindowsApplication7\WindowsApplication7\obj\Debug\WindowsApplication7.pdb

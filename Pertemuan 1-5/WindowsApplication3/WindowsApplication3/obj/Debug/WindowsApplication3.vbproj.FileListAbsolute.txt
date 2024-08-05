@@ -1,0 +1,12 @@
+c:\users\asus\documents\visual studio 2013\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.exe.config
+c:\users\asus\documents\visual studio 2013\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Form1.resources
+c:\users\asus\documents\visual studio 2013\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Resources.resources
+c:\users\asus\documents\visual studio 2013\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.vbproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2013\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.exe
+c:\users\asus\documents\visual studio 2013\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.pdb
+c:\users\asus\documents\visual studio 2013\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.xml
+c:\users\asus\documents\visual studio 2013\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.exe
+c:\users\asus\documents\visual studio 2013\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.xml
+c:\users\asus\documents\visual studio 2013\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.pdb
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.vbprojResolveAssemblyReference.cache
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Form2.resources

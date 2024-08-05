@@ -1,0 +1,11 @@
+D:\FROM E\laptop\Semester 4\Praktikum Pemrograman Visual\Bab 5\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.exe.config
+D:\FROM E\laptop\Semester 4\Praktikum Pemrograman Visual\Bab 5\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Form1.resources
+D:\FROM E\laptop\Semester 4\Praktikum Pemrograman Visual\Bab 5\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Resources.resources
+D:\FROM E\laptop\Semester 4\Praktikum Pemrograman Visual\Bab 5\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.vbproj.GenerateResource.Cache
+D:\FROM E\laptop\Semester 4\Praktikum Pemrograman Visual\Bab 5\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.vbprojResolveAssemblyReference.cache
+D:\FROM E\laptop\Semester 4\Praktikum Pemrograman Visual\Bab 5\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.exe
+D:\FROM E\laptop\Semester 4\Praktikum Pemrograman Visual\Bab 5\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.pdb
+D:\FROM E\laptop\Semester 4\Praktikum Pemrograman Visual\Bab 5\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.xml
+D:\FROM E\laptop\Semester 4\Praktikum Pemrograman Visual\Bab 5\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.exe
+D:\FROM E\laptop\Semester 4\Praktikum Pemrograman Visual\Bab 5\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.xml
+D:\FROM E\laptop\Semester 4\Praktikum Pemrograman Visual\Bab 5\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.pdb

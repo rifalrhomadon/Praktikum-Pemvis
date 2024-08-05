@@ -1,0 +1,11 @@
+D:\FROM E\laptop\Semester 4\Praktikum Pemrograman Visual\Bab 5\WindowsApplication4\WindowsApplication4\bin\Debug\WindowsApplication4.exe.config
+D:\FROM E\laptop\Semester 4\Praktikum Pemrograman Visual\Bab 5\WindowsApplication4\WindowsApplication4\bin\Debug\WindowsApplication4.exe
+D:\FROM E\laptop\Semester 4\Praktikum Pemrograman Visual\Bab 5\WindowsApplication4\WindowsApplication4\bin\Debug\WindowsApplication4.pdb
+D:\FROM E\laptop\Semester 4\Praktikum Pemrograman Visual\Bab 5\WindowsApplication4\WindowsApplication4\bin\Debug\WindowsApplication4.xml
+D:\FROM E\laptop\Semester 4\Praktikum Pemrograman Visual\Bab 5\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.Form1.resources
+D:\FROM E\laptop\Semester 4\Praktikum Pemrograman Visual\Bab 5\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.Resources.resources
+D:\FROM E\laptop\Semester 4\Praktikum Pemrograman Visual\Bab 5\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.vbproj.GenerateResource.Cache
+D:\FROM E\laptop\Semester 4\Praktikum Pemrograman Visual\Bab 5\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.exe
+D:\FROM E\laptop\Semester 4\Praktikum Pemrograman Visual\Bab 5\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.xml
+D:\FROM E\laptop\Semester 4\Praktikum Pemrograman Visual\Bab 5\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.pdb
+D:\FROM E\laptop\Semester 4\Praktikum Pemrograman Visual\Bab 5\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.Form2.resources
